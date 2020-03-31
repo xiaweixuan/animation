@@ -71,7 +71,7 @@ animation的源码是基于webpack构建的
 
 首先，clone项目源码
 ```bash
-git clone https://github.com/ustbhuangyi/animation.git
+git clone https://github.com/xiaweixuan/animation.git
 ```
 
 安装依赖
